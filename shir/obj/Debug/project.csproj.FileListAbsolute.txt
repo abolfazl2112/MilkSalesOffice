@@ -1,0 +1,272 @@
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\bin\Debug\buying and selling.exe.config
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\bin\Debug\buying and selling.exe
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\bin\Debug\buying and selling.pdb
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\ResolveAssemblyReference.cache
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.about.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.buy_get_factor.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.customer.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.Edit_customer.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.edit_factor.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.edit_visitor.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.factorpre.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.Form1.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.goods.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.goods_2.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.good_in_date.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.groups.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.g_dayly.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.logon.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.MainForm.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.Msg.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.newcustomer.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.new_user.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.new_visitor.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.PrintOptions.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.Properties.Resources.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.buy_recive_factor.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.report.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.report_customer.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.report_good.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.sell_factor.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.sell_get_factor.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.unit.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying_and_selling.visitor.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\project.csproj.GenerateResource.Cache
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying and selling.exe
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling2\obj\Debug\buying and selling.pdb
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\bin\Debug\buying and selling.exe.config
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying and selling.exe
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying and selling.pdb
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\bin\Debug\buying and selling.exe
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\bin\Debug\buying and selling.pdb
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\ResolveAssemblyReference.cache
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.about.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.buy_get_factor.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.customer.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.Edit_customer.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.edit_factor.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.edit_visitor.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.factorpre.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.Form1.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.goods.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.goods_2.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.good_in_date.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.groups.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.g_dayly.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.logon.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.MainForm.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.Msg.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.newcustomer.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.new_user.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.new_visitor.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.PrintOptions.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.Properties.Resources.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.buy_recive_factor.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.report.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.report_customer.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.report_good.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.sell_factor.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.sell_get_factor.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.unit.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\buying_and_selling.visitor.resources
+H:\Documents and Settings\abolfazl\My Documents\Visual Studio 2008\Projects\buying_and_selling3\obj\Debug\project.csproj.GenerateResource.Cache
+G:\buying_and_selling_final\bin\Debug\buying and selling.exe.config
+G:\buying_and_selling_final\obj\Debug\buying and selling.exe
+G:\buying_and_selling_final\obj\Debug\buying and selling.pdb
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\ResolveAssemblyReference.cache
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\project.csproj.GenerateResource.Cache
+E:\buying_and_selling\buying_and_selling_final\bin\Debug\systems.exe.config
+E:\buying_and_selling\buying_and_selling_final\bin\Debug\systems.exe
+E:\buying_and_selling\buying_and_selling_final\bin\Debug\systems.pdb
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.Properties.Resources.resources
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.exe
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.pdb
+E:\buying_and_selling\buying_and_selling_final\bin\Debug\FMessegeBox.dll
+E:\buying_and_selling\buying_and_selling_final\bin\Debug\PopupControl.dll
+E:\buying_and_selling\buying_and_selling_final\bin\Debug\FMessegeBox.xml
+E:\buying_and_selling\buying_and_selling_final\bin\Debug\HozouriComponent.dll
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.exe.licenses
+E:\buying_and_selling\buying_and_selling_final\bin\Debug\PersianDate.dll
+E:\buying_and_selling\buying_and_selling_final\bin\Debug\PersianDate.pdb
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.about.resources
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.Form1.resources
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.logon.resources
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.sghabz.resources
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.tahvilshir.resources
+E:\buying_and_selling\buying_and_selling_final\bin\Debug\Persia.dll
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.vshir.resources
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.analizeshir.resources
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.gharardad.resources
+E:\buying_and_selling\buying_and_selling_final\bin\Debug\Database1.mdf
+E:\buying_and_selling\buying_and_selling_final\bin\Debug\Database1_log.LDF
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.analizekarkhane.resources
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.karkhane.resources
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.markaz.resources
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.moshtari.resources
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.ranande.resources
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.vshir_list.resources
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.tahvileshir_list.resources
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.foroosheshir.resources
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.forooshshir_list.resources
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.gharardad_list.resources
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.analizekarkhane_list.resources
+E:\buying_and_selling\buying_and_selling_final\obj\Debug\systems.analizeshir_list.resources
+E:\project ezadi\buying_and_selling\buying_and_selling_final\bin\Debug\systems.exe.config
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.exe
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.pdb
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\ResolveAssemblyReference.cache
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.analizekarkhane.resources
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.analizekarkhane_list.resources
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.analizeshir.resources
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.analizeshir_list.resources
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.Form1.resources
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.foroosheshir.resources
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.forooshshir_list.resources
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.gharardad.resources
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.gharardad_list.resources
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.karkhane.resources
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.logon.resources
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.markaz.resources
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.moshtari.resources
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.Properties.Resources.resources
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.ranande.resources
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.sghabz.resources
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.tahvileshir_list.resources
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.tahvilshir.resources
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.vshir.resources
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.vshir_list.resources
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\project.csproj.GenerateResource.Cache
+E:\project ezadi\buying_and_selling\buying_and_selling_final\obj\Debug\systems.exe.licenses
+E:\project ezadi\buying_and_selling\buying_and_selling_final\bin\Debug\Database1.mdf
+E:\project ezadi\buying_and_selling\buying_and_selling_final\bin\Debug\Database1_log.LDF
+E:\project ezadi\buying_and_selling\buying_and_selling_final\bin\Debug\systems.exe
+E:\project ezadi\buying_and_selling\buying_and_selling_final\bin\Debug\systems.pdb
+E:\project ezadi\buying_and_selling\buying_and_selling_final\bin\Debug\FMessegeBox.dll
+E:\project ezadi\buying_and_selling\buying_and_selling_final\bin\Debug\HozouriComponent.dll
+E:\project ezadi\buying_and_selling\buying_and_selling_final\bin\Debug\Persia.dll
+E:\project ezadi\buying_and_selling\buying_and_selling_final\bin\Debug\PersianDate.dll
+E:\project ezadi\buying_and_selling\buying_and_selling_final\bin\Debug\PopupControl.dll
+E:\project ezadi\buying_and_selling\buying_and_selling_final\bin\Debug\PersianDate.pdb
+E:\project ezadi\buying_and_selling\buying_and_selling_final\bin\Debug\FMessegeBox.xml
+E:\project ezadi\shir\shir\bin\Debug\systems.exe.config
+E:\project ezadi\shir\shir\obj\Debug\systems.exe
+E:\project ezadi\shir\shir\obj\Debug\systems.pdb
+E:\project ezadi\shir\shir\obj\Debug\ResolveAssemblyReference.cache
+E:\project ezadi\shir\shir\obj\Debug\systems.analizekarkhane.resources
+E:\project ezadi\shir\shir\obj\Debug\systems.analizekarkhane_list.resources
+E:\project ezadi\shir\shir\obj\Debug\systems.analizeshir.resources
+E:\project ezadi\shir\shir\obj\Debug\systems.analizeshir_list.resources
+E:\project ezadi\shir\shir\obj\Debug\systems.Form1.resources
+E:\project ezadi\shir\shir\obj\Debug\systems.foroosheshir.resources
+E:\project ezadi\shir\shir\obj\Debug\systems.forooshshir_list.resources
+E:\project ezadi\shir\shir\obj\Debug\systems.gharardad.resources
+E:\project ezadi\shir\shir\obj\Debug\systems.gharardad_list.resources
+E:\project ezadi\shir\shir\obj\Debug\systems.karkhane.resources
+E:\project ezadi\shir\shir\obj\Debug\systems.logon.resources
+E:\project ezadi\shir\shir\obj\Debug\systems.markaz.resources
+E:\project ezadi\shir\shir\obj\Debug\systems.moshtari.resources
+E:\project ezadi\shir\shir\obj\Debug\systems.Properties.Resources.resources
+E:\project ezadi\shir\shir\obj\Debug\systems.ranande.resources
+E:\project ezadi\shir\shir\obj\Debug\systems.sghabz.resources
+E:\project ezadi\shir\shir\obj\Debug\systems.tahvileshir_list.resources
+E:\project ezadi\shir\shir\obj\Debug\systems.tahvilshir.resources
+E:\project ezadi\shir\shir\obj\Debug\systems.vshir.resources
+E:\project ezadi\shir\shir\obj\Debug\systems.vshir_list.resources
+E:\project ezadi\shir\shir\obj\Debug\project.csproj.GenerateResource.Cache
+E:\project ezadi\shir\shir\obj\Debug\systems.exe.licenses
+E:\project ezadi\shir\shir\bin\Debug\Database1.mdf
+E:\project ezadi\shir\shir\bin\Debug\Database1_log.LDF
+E:\project ezadi\shir\shir\bin\Debug\systems.exe
+E:\project ezadi\shir\shir\bin\Debug\systems.pdb
+E:\project ezadi\shir\shir\bin\Debug\FMessegeBox.dll
+E:\project ezadi\shir\shir\bin\Debug\HozouriComponent.dll
+E:\project ezadi\shir\shir\bin\Debug\Persia.dll
+E:\project ezadi\shir\shir\bin\Debug\PersianDate.dll
+E:\project ezadi\shir\shir\bin\Debug\PopupControl.dll
+E:\project ezadi\shir\shir\bin\Debug\PersianDate.pdb
+E:\project ezadi\shir\shir\bin\Debug\FMessegeBox.xml
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\bin\Debug\systems.exe.config
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.exe
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.pdb
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\bin\Debug\Database1.mdf
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\bin\Debug\Database1_log.LDF
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\bin\Debug\systems.exe
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\bin\Debug\systems.pdb
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\bin\Debug\PersianDate.dll
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\bin\Debug\PopupControl.dll
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\bin\Debug\PersianDate.pdb
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\bin\Debug\FMessegeBox.xml
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\ResolveAssemblyReference.cache
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.analizekarkhane.resources
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.analizekarkhane_list.resources
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.analizeshir.resources
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.analizeshir_list.resources
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.Form1.resources
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.foroosheshir.resources
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.forooshshir_list.resources
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.gharardad.resources
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.gharardad_list.resources
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.karkhane.resources
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.logon.resources
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.markaz.resources
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.moshtari.resources
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.Properties.Resources.resources
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.ranande.resources
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.sghabz.resources
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.tahvileshir_list.resources
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.tahvilshir.resources
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.vshir.resources
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.vshir_list.resources
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\project\project\C#\c#\project TOP C#\01 My Design\project ezadi\shir\shir\obj\Debug\systems.exe.licenses
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\bin\Debug\systems.exe.config
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\systems.exe
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\systems.pdb
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\ResolveAssemblyReference.cache
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.analizekarkhane.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.analizekarkhane_list.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.analizeshir.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.analizeshir_list.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.Form1.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.foroosheshir.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.forooshshir_list.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.gharardad.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.gharardad_list.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.karkhane.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.logon.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.markaz.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.moshtari.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.Properties.Resources.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.ranande.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.sghabz.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.tahvileshir_list.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.tahvilshir.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.vshir.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.vshir_list.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\systems.exe.licenses
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\bin\Debug\Database1.mdf
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\bin\Debug\Database1_log.LDF
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\bin\Debug\systems.exe
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\bin\Debug\systems.pdb
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\bin\Debug\PersianDate.dll
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\bin\Debug\PopupControl.dll
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\bin\Debug\PersianDate.pdb
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\bin\Debug\FMessegeBox.xml
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.g_morajee_bimar.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\obj\Debug\system.g_morajeen_modatdar.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\bin\Debug\Stimulsoft.Base.dll
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\bin\Debug\Stimulsoft.Report.dll
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\bin\Debug\Stimulsoft.Base.xml
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\bin\Debug\Stimulsoft.Report.xml
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\bin\Debug\Stimulsoft.Report.Win.dll
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\bin\Debug\Stimulsoft.Controls.Win.dll
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\bin\Debug\Stimulsoft.Controls.dll
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\bin\Debug\Stimulsoft.Report.Win.xml
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\bin\Debug\Stimulsoft.Controls.Win.xml
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\دفاتر دریافت شیر\shir\bin\Debug\Stimulsoft.Controls.xml
+K:\Programing\C#\C#########\Completed Project\نرم افزارهای من\0 - نرم افزار مدیریت دفاتر دریافت شیر\shir\bin\Debug\systems.exe.config
+K:\Programing\C#\C#########\Completed Project\نرم افزارهای من\0 - نرم افزار مدیریت دفاتر دریافت شیر\shir\obj\Debug\systems.exe
+K:\Programing\C#\C#########\Completed Project\نرم افزارهای من\0 - نرم افزار مدیریت دفاتر دریافت شیر\shir\obj\Debug\systems.pdb

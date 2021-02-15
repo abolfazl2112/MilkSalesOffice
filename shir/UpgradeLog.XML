@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DataGridViewX">
+</Property><Property Name="Solution File" Value="F:\Program Files\DotNetBar for Windows Forms\Samples\DataGridViewX\CS\DataGridViewX.sln">
+</Property><Property Name="Date" Value="Sunday, November 29, 2009">
+</Property><Property Name="Time" Value="10:54 AM">
+</Property></Properties><Event ErrorLevel="0" Project="DataGridViewX" Source="DataGridViewX.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataGridViewX" Source="DataGridViewX.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DataGridViewX.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DataGridViewX.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataGridViewX" Source="DataGridViewX.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
